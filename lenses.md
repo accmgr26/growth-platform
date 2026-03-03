@@ -4,13 +4,10 @@ title: Lenses
 permalink: /lenses/
 ---
 
-## Lenses of Observation
+## Interpretive Domains
 
-These domains shape how I interpret the world:
-
-- Photography
-- Poetry
-- Jazz
-- Stoic Philosophy
+- [Systems](/growth-platform/lenses/systems/)
 - Psychology
-- Human Behaviour
+- Stoic Philosophy
+- Behavioural Architecture
+- Creative Observation
