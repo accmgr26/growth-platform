@@ -2,3 +2,8 @@ title: Growth Platform
 description: A structured record of perception, discipline, and human development.
 theme: minima
 markdown: kramdown
+
+header_pages:
+  - about.md
+  - lenses.md
+  - systems.md
