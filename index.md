@@ -3,12 +3,17 @@ layout: home
 title: Growth Platform
 ---
 
-## A Structured Record
+## Orientation
 
-This platform documents:
-- Observation
-- Interpretation
-- Discipline
-- Systems
-- Human behaviour
-Architecture validation test.
+Growth Platform is a structured record of perception, discipline, and applied systems thinking.
+
+It documents:
+
+- Cognitive frameworks  
+- Behavioural architecture  
+- Interpretive lenses  
+- Structural discipline  
+
+---
+
+## Latest Entries
